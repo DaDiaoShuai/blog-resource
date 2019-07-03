@@ -13,7 +13,7 @@ donate: true
 
 
 <!-- <i class="fa fa-github"></i> github: [CoolB](https://github.com/DaDiaoShuai) -->
-<h3 class="ab-donate">分享欣赏赞赏都是美德</h3>
+<h3 class="ab-donate">分享欣赏赞赏都是美德！</h3>
 
 <style>
     .ab-donate {
