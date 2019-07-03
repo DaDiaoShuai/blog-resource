@@ -67,7 +67,7 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-  - page: 我
+  - page: 我啊
     directory: about/
     icon: fa-user
   - page: 歌单
