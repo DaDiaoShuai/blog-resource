@@ -1,5 +1,5 @@
 ---
-title: 我眼中的我
+title: 我
 donate: true
 ---
 
