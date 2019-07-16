@@ -23,12 +23,21 @@ donate: true
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         -webkit-background-size: 200% 100%;
-        animation: bgp 5s infinite linear;
+        animation: bgp 10s infinite linear;
     }
 
     @keyframes bgp {
         0% {
             background-position: 0 0;
+        }
+        25% {
+            background-position: -75% 0;
+        }
+        50% {
+            background-position: -50% 0;
+        }
+        75% {
+            background-position: -25% 0;
         }
         100% {
             background-position: -100% 0;
