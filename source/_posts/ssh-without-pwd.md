@@ -2,7 +2,7 @@
 title: 免密登录远程服务器配置
 date: 2019-06-18
 tags: Linux
-category: 应知必会Linux端
+category: 应知必会Linux
 description: 从现在开始你就不用再每次输入密码登录远程服务器啦 🛠
 ---
 
