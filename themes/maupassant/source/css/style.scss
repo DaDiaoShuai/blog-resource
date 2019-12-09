@@ -26,11 +26,13 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-size: 14px;
+    background-image: url(https://bing.ioliu.cn/v1/rand?w=240&h=320);
 }
 .body_container {
     padding: 0 60px;
     max-width: 1150px;
     margin: 0 auto;
+    background-color: rgba(255,255,249,0.96);
 }
 .content_container {
     padding-right: 50px;
